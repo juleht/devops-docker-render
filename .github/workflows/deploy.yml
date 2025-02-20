@@ -1,0 +1,6 @@
+name: Release DevOps with Docker to Render
+
+on:
+    push:
+        branches:
+            -main
